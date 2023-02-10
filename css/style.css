@@ -1,0 +1,28 @@
+img {
+    height: 350px;
+    width: 330px;
+}
+
+.gif {
+    height: 300px;
+    width: 300px;
+    /* justify-content: center; */
+    /* text-align: center; */
+}
+
+.angular {
+    height: 60px;
+    width: 80px;
+}
+
+li{
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: beige;
+}
